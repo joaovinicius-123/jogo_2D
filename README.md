@@ -27,5 +27,7 @@ jogo para  treinar versionamento de código.
 
 24/02 Daremos inicio a desenvolver o mapa do nosso Jogo.
 
+29/09 Nessa aula voltamos a desenvolver o mapa do jogo, primeiramente no inicio da aula o professor falou sobre o dia e os conteúdos que terá na nossa prova bimestral, cujo valor valerá x pontos. Assim na aula continuamos a desenvolver o mapa e no final da aula o Professor vistou o que fizemos
+
 
 

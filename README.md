@@ -27,7 +27,7 @@ jogo para  treinar versionamento de código.
 
 24/02 Daremos inicio a desenvolver o mapa do nosso Jogo.
 
-29/09 Nessa aula voltamos a desenvolver o mapa do jogo, primeiramente no inicio da aula o professor falou sobre o dia e os conteúdos que terá na nossa prova bimestral, cujo valor valerá x pontos. Assim na aula continuamos a desenvolver o mapa e no final da aula o Professor vistou o que fizemos
+29/09 Nessa aula voltamos a desenvolver o mapa do jogo, primeiramente no inicio da aula o professor falou sobre o dia e os conteúdos que terá na nossa prova bimestral, cujo valor valerá x pontos. Assim na aula continuamos a desenvolver o mapa e acrescentamos um objeto "espinho" que terá a tag de dano, e ao colidir com essa tag o jogo reinicia. Também aprendemos sobre como adicionar um objeto e deixar ele invisivel, também sendo usado para reiniciar o jogo quando o player cai e assim para não ir para o fundo ele encosta nesse objeto com collidder e reinicia o jogo. No final da aula o Professor vistou o que fizemos.
 
 
 

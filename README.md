@@ -32,7 +32,7 @@ jogo para  treinar versionamento de código.
 
 01/10 Revisão para a prova e Realização de prova após o intervalo.
 
-06/10 Devolutiva de prova e desenvolvimento de projeto para ser vistado e assim atribuido na nota, ao final da manhã o professor falará a nota final e se está ou não de recuperação no bimestre.
+06/10 Devolutiva de prova e desenvolvimento de projeto com uma adição de uma mecanica para ser vistado e assim atribuido na nota, ao final da manhã o professor falará a nota final e se está ou não de recuperação no bimestre. As 11:14 levei o meu projeto ao professor com a finalidade de entregar e assim obtive nota máxima no jogo e na mecanica e fiquei com média de 80 no 3° Bimestre.
 
 
 

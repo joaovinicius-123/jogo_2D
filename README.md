@@ -34,6 +34,8 @@ jogo para  treinar versionamento de código.
 
 06/10 Devolutiva de prova e desenvolvimento de projeto com uma adição de uma mecanica para ser vistado e assim atribuido na nota, ao final da manhã o professor falará a nota final e se está ou não de recuperação no bimestre. As 11:14 levei o meu projeto ao professor com a finalidade de entregar e assim obtive nota máxima no jogo e na mecanica e fiquei com média de 80 no 3° Bimestre.
 
+08/10 Foi adicionado uma nova cena e adicionei prefabs com o intuito de importar os itens da cena 1 para a cena 2, isso foi uma atividade de Scene Manager passada pelo professor.
+
 
 
 

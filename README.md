@@ -36,6 +36,8 @@ jogo para  treinar versionamento de código.
 
 08/10 Foi adicionado uma nova cena e adicionei prefabs com o intuito de importar os itens da cena 1 para a cena 2, isso foi uma atividade de Scene Manager passada pelo professor.
 
+15/10 Nesse dia de hoje foi adicionado ao projeto a cena gamer over, que significa no meu projeto que o player alcançou o objetivo para subir nivel e o botão LEVEL UP.
+
 
 
 

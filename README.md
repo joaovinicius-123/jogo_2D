@@ -38,6 +38,7 @@ jogo para  treinar versionamento de código.
 
 15/10 Nesse dia de hoje foi adicionado ao projeto a cena gamer over, que significa no meu projeto que o player alcançou o objetivo para subir nivel e o botão LEVEL UP.
 
+19/10 Neste dia começamos a desenvolver o HUD, PAUSE, TELAS DE MENU & CONTINUAR O GDD. Feito no PAPEL.
 
 
 

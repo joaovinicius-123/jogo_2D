@@ -39,9 +39,13 @@ jogo para  treinar versionamento de código. ANO 2026
 15/10 Nesse dia de hoje foi adicionado ao projeto a cena gamer over, que significa no meu projeto que o player alcançou o objetivo para subir nivel e o botão LEVEL UP.
 
 19/10 Neste dia começamos a desenvolver o HUD, PAUSE, TELAS DE MENU & CONTINUAR O GDD. Feito no PAPEL.
+
 20/10 Aulas cedidas para realizar o termino das interfaces.
+
 21/10  Inicio da Lista Game Design. Copiar.
+
 22/10 Professor Vinicius vistou a lista dos alunos.
+
 23/10 Aulão revisão Avalia II auditório.
 
 

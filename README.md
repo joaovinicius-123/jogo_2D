@@ -1,5 +1,5 @@
 # jogo_2D
-jogo para  treinar versionamento de código.
+jogo para  treinar versionamento de código. ANO 2026
 
 25/08 - Nesse dia de hoje em uma terça feira aprendemos sobre o conteúdo de versionamento de código, onde no inicio da aula começamos com a instalação do app, login na conta que criamos ontem como uma atividade, porem no computador da escola no qual usamos no curso, os conteúdos que aprendemos foi como dar um: commit, push, utilizar a branch e etc. Gostei muito dessa aula e aprendi muito, já espero fazer essa aula novamente, porém, de modo sozinho e individual..
 
@@ -39,6 +39,10 @@ jogo para  treinar versionamento de código.
 15/10 Nesse dia de hoje foi adicionado ao projeto a cena gamer over, que significa no meu projeto que o player alcançou o objetivo para subir nivel e o botão LEVEL UP.
 
 19/10 Neste dia começamos a desenvolver o HUD, PAUSE, TELAS DE MENU & CONTINUAR O GDD. Feito no PAPEL.
+20/10 Aulas cedidas para realizar o termino das interfaces.
+21/10  Inicio da Lista Game Design. Copiar.
+22/10 Professor Vinicius vistou a lista dos alunos.
+23/10 Aulão revisão Avalia II auditório.
 
 
 

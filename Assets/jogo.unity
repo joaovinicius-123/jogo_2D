@@ -4528,7 +4528,7 @@ GameObject:
   - component: {fileID: 996074454}
   m_Layer: 0
   m_Name: Square
-  m_TagString: dano
+  m_TagString: Mudar_cena
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4667,7 +4667,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1020015283
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5795,7 +5795,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1253113237
 MonoBehaviour:
   m_ObjectHideFlags: 0

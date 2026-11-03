@@ -46,6 +46,8 @@ jogo para  treinar versionamento de código. ANO 2026
 
 22/10 Professor Vinicius vistou a lista dos alunos.
 
+03/11 Mudança e Ajustes no projeto.
+
 23/10 Aulão revisão Avalia II auditório.
 
 

@@ -3,13 +3,15 @@ using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
-    public float speed = 10000f;
+    public float speed = 100f;
       
 
 
     private Rigidbody2D rb;
 
     private bool isGrounded = false;
+
+    public MenuScene menu;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -39,9 +41,9 @@ public class Player : MonoBehaviour
             isGrounded = true; //Vai reconhecer quando o jogador esta no chão.
         }
 
-        if (collision.gameObject.CompareTag("dano")) // vai fazer uma questão especifica
+        if (collision.gameObject.CompareTag("dano")) 
         {
-            SceneManager.LoadScene(0); // vai carregar a cena 0
+            menu.MostrarGamerOver();
         }
     }
 

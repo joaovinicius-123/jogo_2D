@@ -1,5 +1,5 @@
 # jogo_2D
-jogo para  treinar versionamento de código. ANO 2026
+jogo para  treinar versionamento de código. ANO 2026/ 2 JD
 
 25/08 - Nesse dia de hoje em uma terça feira aprendemos sobre o conteúdo de versionamento de código, onde no inicio da aula começamos com a instalação do app, login na conta que criamos ontem como uma atividade, porem no computador da escola no qual usamos no curso, os conteúdos que aprendemos foi como dar um: commit, push, utilizar a branch e etc. Gostei muito dessa aula e aprendi muito, já espero fazer essa aula novamente, porém, de modo sozinho e individual..
 
@@ -46,9 +46,17 @@ jogo para  treinar versionamento de código. ANO 2026
 
 22/10 Professor Vinicius vistou a lista dos alunos.
 
+23/10 Aulão revisão Avalia II auditório.
+
 03/11 Mudança e Ajustes no projeto.
 
-23/10 Aulão revisão Avalia II auditório.
+05/11 Mundo do Senai
+
+06/11 Mundo do Senai
+
+10/11 Foi adicionado no jogo a cena de pause, game over e função no botão ESC
+
+
 
 
 

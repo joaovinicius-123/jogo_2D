@@ -56,6 +56,7 @@ jogo para  treinar versionamento de código. ANO 2026/ 2 JD
 
 10/11 Foi adicionado no jogo a cena de pause, game over e função no botão ESC
 
+12/11 Desenvolvemos no jogo a tela de menu, os botões ja com resultado explicito e começamos a desenvolver a cena 2 e os atributos para expressar o fim do game.
 
 
 

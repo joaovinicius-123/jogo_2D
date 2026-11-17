@@ -58,6 +58,8 @@ jogo para  treinar versionamento de código. ANO 2026/ 2 JD
 
 12/11 Desenvolvemos no jogo a tela de menu, os botões ja com resultado explicito e começamos a desenvolver a cena 2 e os atributos para expressar o fim do game.
 
+17/11 Foi desenvolvido no jogo a tela de vitória, a transição da cena 1 para a cena de vitória e etc
+
 
 
 

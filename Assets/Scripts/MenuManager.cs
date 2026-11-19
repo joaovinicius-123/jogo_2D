@@ -1,16 +1,16 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class MenuManager : MonoBehaviour
+public class MenuManager : MonoBehaviour //Menu inicial
 {
-    public void StartGame()
+    public void StartGame() //button start game
     {
-       SceneManager.LoadScene("jogo");
+       SceneManager.LoadScene("jogo"); //ao ser clicado roda a cena "jogo"
     }
 
-public void QuitGame()
+public void QuitGame() //button Quitgame
     {
-        Application.Quit();
+        Application.Quit(); //ao ser clicado sai do jogo.
     }
-    
+
 }

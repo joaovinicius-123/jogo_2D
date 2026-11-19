@@ -58,7 +58,9 @@ jogo para  treinar versionamento de código. ANO 2026/ 2 JD
 
 12/11 Desenvolvemos no jogo a tela de menu, os botões ja com resultado explicito e começamos a desenvolver a cena 2 e os atributos para expressar o fim do game.
 
-17/11 Foi desenvolvido no jogo a tela de vitória, a transição da cena 1 para a cena de vitória e etc
+17/11 Foi desenvolvido no jogo a tela de vitória, a transição da cena 1 para a cena de vitória e etc.
+
+19/11 Adicionamos a camera follow, retiramos a camera de dentro do player, organizamos as pastas, projetos e o jogo. Com a finalidade de ficar tudo perfeito para o professor Vinicius vistar. Além disso fizemos alterações em scripts, cenas e objetos.
 
 
 
